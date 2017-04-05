@@ -1,0 +1,17 @@
+[
+  {
+    "repository":   "ScrewdAOSP/kernel_google_pixel",
+    "target_path":  "kernel/google/pixel",
+    "branch":       "n7x"
+  },
+  {
+    "repository":   "ScrewdAOSP/device_google_marlin",
+    "target_path":  "device/google/marlin",
+    "branch":       "n7x"
+  },
+  {
+    "repository":  "ScrewdAOSP/proprietary_vendor_google",
+    "target_path": "vendor/google",
+    "branch":      "n7x"
+  }
+]
